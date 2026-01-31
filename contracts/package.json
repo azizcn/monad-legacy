@@ -1,0 +1,22 @@
+{
+  "name": "monad-testament-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.4.0",
+    "@typechain/hardhat": "^9.1.0",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.11.1",
+    "hardhat": "^2.22.0",
+    "typechain": "^8.3.2"
+  }
+}

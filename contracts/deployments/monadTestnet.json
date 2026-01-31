@@ -1,0 +1,9 @@
+{
+    "address": "0x8baf039aC2129BEA081ACEBE44546FB5706F12b8",
+    "network": "monadTestnet",
+    "chainId": 10143,
+    "timestamp": "2026-01-31T10:56:44.000Z",
+    "deployer": "User deployed via Remix IDE",
+    "compiler": "Solidity 0.8.24",
+    "note": "Testament V2 - Deposit/Withdraw System"
+}
